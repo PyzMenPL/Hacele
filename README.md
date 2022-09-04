@@ -15,10 +15,10 @@ Gra działa na razie tylko na Linuksie! Jest to spowodowane biblioteką simple-t
 Wymagane są numpy oraz simple-term-menu:
 
 ```bash
-python3 -m pip install numpy
+pip install numpy
 ```
 ```bash
-python3 -m pip install simple-term-menu
+pip install simple-term-menu
 ```
 
 Aby uruchomić: 
