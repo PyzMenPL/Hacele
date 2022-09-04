@@ -1,7 +1,5 @@
 # Hacele
 
-## Gra działa na razie tylko na Linuksie!
-
 ## Na czym polega gra?
 
 W hacele gra się w dwóch graczy. Każdy gracz ma planszę na której znajdują się trzy kolumny, każda z trzema miejscami na kości. Na początku gry losowo zostaje wybrany jeden z graczy który pierwszy rzuca kością, następnie wynik swojego rzutu musi umieścić w jednej z trzech kolumn i oddać kość swojemu przeciwnikowi.
@@ -14,7 +12,9 @@ Gracze mogą sobie przeszkadzać. Załóżmy taką sytuacje: nasz przeciwnik ma 
 
 # Jak kożystać z gry?
 
-Wymaga numpy oraz simple-term-menu:
+Gra działa na razie tylko na Linuksie! Jest to spowodowane biblioteką simple-term-menu.
+
+Wymagane są numpy oraz simple-term-menu:
 
 ```bash
 python3 -m pip install numpy
